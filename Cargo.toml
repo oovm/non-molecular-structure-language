@@ -1,0 +1,12 @@
+[workspace]
+members = ["projects/*"]
+default-members = [
+    "projects/nmsl-core",
+]
+exclude = [
+    "projects/.DS_Store",
+    "projects/nmsl-draw",
+]
+
+[profile.release]
+lto = true
