@@ -1,5 +1,4 @@
-Non Molecular Structure Language
-================================
+# Non Molecular Structure Language
 
 Non-molecular structure language is a kind of [Esolang](https://en.wikipedia.org/wiki/Esoteric_programming_language), following content referred to as NMSL.
 
@@ -7,7 +6,7 @@ The NMSL program consists of a series of chemical expressions.
 
 The following is a legal NMSL `"Hello world!"` program:
 
-![Hello, world!](./docs/hello-world.svg)
+![Hello, world!](hello-world.svg)
 
 
 The reading order is from left to right, from top to bottom, its SMILES is transcribed as:

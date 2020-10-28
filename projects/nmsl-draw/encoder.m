@@ -18,3 +18,5 @@ find[i_Integer] := Block[
 
 target = Normal@StringToByteArray["Hello world!", "UTF8"];
 output = ParallelMap[find, target];
+plot = MoleculePlot /@ ImportString[StringRiffle[Values@output, "\n"], "SMILES"];
+Export["hello-world.svg", Multicolumn[plot, 3]]
