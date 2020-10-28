@@ -1,6 +1,6 @@
-# 非分子结构化语
+# 非分子结构化编程语
 
-非分子结构化语是一种**深奥编程语言**([Esolang](https://en.wikipedia.org/wiki/Esoteric_programming_language)), 以下简称 NMSL.
+非分子结构化编程语是一种**深奥编程语言**([Esolang](https://en.wikipedia.org/wiki/Esoteric_programming_language)), 以下简称 NMSL.
 
 NMSL 的程序由一串化学表达式构成.
 
